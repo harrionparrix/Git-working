@@ -32,3 +32,5 @@ git commit
 (i , insert text, esc , :wq)
 
 git status
+
+git add -A (adding multiple files)
