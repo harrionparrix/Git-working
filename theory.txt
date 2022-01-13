@@ -1,0 +1,17 @@
+4 stages of git:
+
+Untracked: just adding the files, git doesnt care.  
+Unmodified: commited file are here, fi we change go to modify
+Modified: modified code which goes to stage
+Staged: staging area contains files that are to be commited. 
+
+Untracked -> Staged ->(commit) -> Unmodified ->(modify the code)-> Modified -> (commit) ->Staged
+
+Ex.  1.html, 2 3 4 
+
+If i wanna work more on 3 4, then we stage 1 and 2 only.
+Now after Staging, git records the file
+file now is unmodified.
+if we modify, its modified.
+then stage again, then modify again.
+
