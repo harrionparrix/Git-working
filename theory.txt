@@ -49,3 +49,8 @@ git log -p  -1
 git diff(tells the difference between working tree and staging area)
 git diff --staged (compares last commit and staged area)
 
+ls (show files)
+
+git rm waste.html(removes the file) 
+git rm --cached waste.html (removes from staging area)
+
