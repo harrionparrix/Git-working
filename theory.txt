@@ -32,7 +32,7 @@ git commit
 (i , insert text, esc , :wq)
 
 easier : git commit -m "Added/changed files, text to write"
-
+git commit -a -m  (fully skips staging area and commits directly)
 
 git status
 
