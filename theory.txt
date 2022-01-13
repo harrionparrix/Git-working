@@ -15,3 +15,20 @@ file now is unmodified.
 if we modify, its modified.
 then stage again, then modify again.
 
+Steps:
+
+open folder
+
+code . (vs)
+
+git init (adds git to folder)
+
+git status 
+
+git add x.html/whatever
+
+git commit
+
+(i , insert text, esc , :wq)
+
+git status
