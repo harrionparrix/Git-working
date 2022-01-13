@@ -26,11 +26,13 @@ git init (adds git to folder)
 git status 
 
 git add x.html/whatever
+git add -A (adding multiple files)
 
 git commit
-
 (i , insert text, esc , :wq)
+
+easier : git commit -m "Added/changed files, text to write"
+
 
 git status
 
-git add -A (adding multiple files)
