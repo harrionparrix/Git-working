@@ -54,3 +54,5 @@ ls (show files)
 git rm waste.html(removes the file) 
 git rm --cached waste.html (removes from staging area)
 
+git status -s 
+summarised status
