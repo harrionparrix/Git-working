@@ -36,3 +36,16 @@ easier : git commit -m "Added/changed files, text to write"
 
 git status
 
+to recover:::
+git checkout first.html
+git checkout -f  (for all)
+
+
+git log (all info)
+last few commits:
+git log -p  -1
+
+
+git diff(tells the difference between working tree and staging area)
+git diff --staged (compares last commit and staged area)
+
