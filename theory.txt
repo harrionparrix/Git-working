@@ -56,3 +56,12 @@ git rm --cached waste.html (removes from staging area)
 
 git status -s 
 summarised status
+
+first M: modified in staging area
+second M: modified in working tree
+
+
+*git ignore 
+touch .gitignore
+
+
