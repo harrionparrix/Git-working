@@ -69,3 +69,25 @@ if wanna ignore all log type files/c++ files or any files
 *.cpp in gitignore
 
 ignore a folder :    foldername/ in gitignore
+
+
+
+branches:
+copy of the original master 
+git branch BRANCH_NAME
+
+git checkout Branch_name
+
+git merge feature1
+
+git checkout -b branchname
+
+
+
+git with github
+git remote add origin (git url)
+git remote
+git remote -v
+
+
+
