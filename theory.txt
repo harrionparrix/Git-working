@@ -64,4 +64,8 @@ second M: modified in working tree
 *git ignore 
 touch .gitignore
 
+if wanna ignore all log type files/c++ files or any files
+*.log in gitignore
+*.cpp in gitignore
 
+ignore a folder :    foldername/ in gitignore
